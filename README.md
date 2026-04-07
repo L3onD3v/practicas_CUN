@@ -1,4 +1,4 @@
-# 🚀 Bootcamp Análisis de Datos - Nivel Básico (Talento Tech / CUN)
+# 🚀 Bootcamp Análisis de Datos - (Talento Tech / CUN)
 
 ¡Bienvenidos, campistas! Este repositorio es su centro de recursos para el entrenamiento intensivo en Ciencia de Datos. Aquí encontrarán todo lo necesario para transformar datos en decisiones inteligentes.
 
